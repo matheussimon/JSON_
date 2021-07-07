@@ -103,8 +103,8 @@
     "Brand": "HP",
     "ProductName": "Envy 14-eb00 TouchScreen",
     "GraphicName": "envy.png",
-    "CostPrice": "1,649.99",
-    "MSRP": "1.999,99",
+    "CostPrice": "1649.99",
+    "MSRP": "1999.99",
     "QtyOnHand": "12",
     "QtyBackOrder": "90",
     "Description": "Laptop with a powerfull processor that can handle everything faster"
@@ -113,8 +113,8 @@
     "Brand": "HP",
     "ProductName": "Spectre x360",
     "GraphicName": "spectre.png",
-    "CostPrice": "1,499.99",
-    "MSRP": "1,799.99",
+    "CostPrice": "1499.99",
+    "MSRP": "1799.99",
     "QtyOnHand": "15",
     "QtyBackOrder": "80",
     "Description": "Quick, light, and small. Lovely pen comes together"
@@ -133,8 +133,8 @@
     "Brand": "HP",
     "ProductName": "ProBook 450",
     "GraphicName": "probook450.png",
-    "CostPrice": "1,359.00",
-    "MSRP": "1,599.99",
+    "CostPrice": "1359.00",
+    "MSRP": "1599.99",
     "QtyOnHand": "15",
     "QtyBackOrder": "10",
     "Description": "The 450 lineup has excellent performance, ports and low weight"
@@ -143,8 +143,8 @@
     "Brand": "HP",
     "ProductName": "EliteBook 850",
     "GraphicName": "elitebook850.png",
-    "CostPrice": "2,389.00",
-    "MSRP": "2,599.00",
+    "CostPrice": "2389.00",
+    "MSRP": "2599.00",
     "QtyOnHand": "12",
     "QtyBackOrder": "15",
     "Description": "Screen is bright and vibrant and the keyboard is tactile and responsive"
