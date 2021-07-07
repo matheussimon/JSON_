@@ -91,13 +91,13 @@
   },
   {
     "Brand": "Apple",
-    "ProductName": "",
-    "GraphicName": "",
-    "CostPrice": "",
-    "MSRP": "",
-    "QtyOnHand": "",
-    "QtyBackOrder": "",
-    "Description": ""
+    "ProductName": "iMac",
+    "GraphicName": "imac.png",
+    "CostPrice": "2370",
+    "MSRP": "2900",
+    "QtyOnHand": "12",
+    "QtyBackOrder": "53",
+    "Description": "All in one desktop from apple"
   },
   {
     "Brand": "HP",
