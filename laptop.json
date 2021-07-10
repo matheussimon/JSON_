@@ -82,7 +82,7 @@
   {
     "Brand": "Apple",
     "ProductName": "Mac Mini",
-    "GraphicName": "macmini",
+    "GraphicName": "macmini.png",
     "CostPrice": "900",
     "MSRP": "1200",
     "QtyOnHand": "431",
