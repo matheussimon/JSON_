@@ -13,8 +13,8 @@
     "Brand": "Lenovo",
     "ProductName": "ThinkPad T14s Gen 2 Intel",
     "GraphicName": "thinkpadt14.png",
-    "CostPrice": "2,105.40",
-    "MSRP": "2,300.00",
+    "CostPrice": "2105.40",
+    "MSRP": "2300.00",
     "QtyOnHand": "14",
     "QtyBackOrder": "14",
     "Description": "The workstation ultraportable"
@@ -23,8 +23,8 @@
     "Brand": "Lenovo",
     "ProductName": "ThinkPad X1 Carbon Gen 8",
     "GraphicName": "x1carbon.png",
-    "CostPrice": "2,231.40",
-    "MSRP": "2,500.00",
+    "CostPrice": "2231.40",
+    "MSRP": "2500.00",
     "QtyOnHand": "13",
     "QtyBackOrder": "13",
     "Description": "The lightest laptop in thinkpad line"
@@ -33,8 +33,8 @@
     "Brand": "Lenovo",
     "ProductName": "ThinkPad X13 AMD",
     "GraphicName": "thinkpadx13.png",
-    "CostPrice": "2,117.40",
-    "MSRP": "2,300.00",
+    "CostPrice": "2117.40",
+    "MSRP": "2300.00",
     "QtyOnHand": "12",
     "QtyBackOrder": "12",
     "Description": "Small and practice, the best choice for you"
